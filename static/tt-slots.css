@@ -1,0 +1,56 @@
+* {
+    padding: 10px;
+    margin: 10px
+}
+
+#divbysan {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+}
+
+
+.card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(250, 250, 250);
+}
+
+
+#carin {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10rem;
+}
+
+body {
+
+    background-color: aquamarine !important;
+}
+
+.btn-outline-primary {
+    color: blueviolet;
+}
+
+.btn-outline-primary:hover {
+    color: rgb(255, 255, 255);
+    border: crimson;
+    background-color: rgb(20, 220, 23);
+}
+
+#tsp {
+    font-size: 90px;
+    text-shadow: 2px 2px 2px red;
+    display: inline;
+    font-family: fira code;
+}
+
+#heading {
+    text-align: center;
+    background-color: aquamarine;
+    height: 0;
+    margin-bottom: 0px;
+}

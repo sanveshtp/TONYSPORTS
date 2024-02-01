@@ -1,0 +1,47 @@
+#divbysan {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+    border-radius: 0px;
+
+}
+
+.bg-image {
+    border-radius: 10px;
+}
+
+body {
+    background-color: aquamarine !important;
+}
+
+.card-title {
+    color: blueviolet;
+}
+
+.card-body {
+    height: 140px;
+}
+
+#ttbo {
+    height: 300px !important;
+}
+
+#tsp {
+    font-size: 40px;
+    text-shadow: 2px 2px red;
+    /* display: inline; */
+    font-family: fira code;
+}
+
+#heading {
+    text-align: center;
+    background-color: aquamarine;
+    height: 0;
+    margin-bottom: 50px;
+}

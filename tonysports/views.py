@@ -13,10 +13,6 @@ def signup(a):
     return render(a, 'signup.html')
 
 
-def sports(a):
-    return render(a, 'sports.html')
-
-
 def bad_slots(a):
     return render(a, 'bad-slots.html')
 

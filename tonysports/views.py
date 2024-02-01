@@ -19,3 +19,7 @@ def sports(a):
 
 def bad_slots(a):
     return render(a, 'bad-slots.html')
+
+
+def tt_slots(a):
+    return render(a, 'tt-slots.html')
